@@ -62,7 +62,7 @@ LINE Bot 帳號連結：[Source](https://page.line.me/475fahrf)
 
 ## 參考資料
 
-- 感謝 [Soruly](https://github.com/soruly) 提供的 [Anilist-Chinese](https://github.com/soruly/anilist-chinese) 使我能將取得的動畫標題中文化
+- 感謝 [Soruly](https://github.com/soruly) 提供的 [Anilist-Chinese](https://github.com/soruly/anilist-chinese) 幫助我將取得的動畫標題中文化
 
 - [Trace.moe API](https://soruly.github.io/trace.moe-api/#/docs)
 
