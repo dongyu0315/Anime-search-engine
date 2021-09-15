@@ -12,9 +12,9 @@ LINE Bot 帳號連結：[Source](https://page.line.me/475fahrf)
 
 ## 目錄
 
-[如果你也想要搭建一個與本文相同的 LINE Bot](#如果你也想要搭建一個與本文相同的 LINE Bot，你需要:)
+[如果你也想要搭建一個與本文相同的 LINE Bot](#如果你也想要搭建一個與本文相同的-line-bot你需要)
 
-[這是什麼？ 它可以幹嘛？](#這是什麼？ 它可以幹嘛？)
+[這是什麼？ 它可以幹嘛？](#這是什麼？它可以幹嘛？)
 
 [參考資料](#參考資料)
 
@@ -43,7 +43,7 @@ LINE Bot 帳號連結：[Source](https://page.line.me/475fahrf)
   
   詳細請見 [main.py](https://github.com/dongyu0315/Trace.moe_and_SauceNAO_for_LINE/blob/main/main.py#L25)
     
-## 這是什麼？ 它可以幹嘛？
+## 這是什麼？它可以幹嘛？
 
 ### [Source](https://page.line.me/475fahrf) 提供了以下幾種方法為你的圖片搜尋來源：
 
