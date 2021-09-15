@@ -29,19 +29,19 @@ LINE Bot 帳號連結：[Source](https://page.line.me/475fahrf)
 
 - 註冊 [imgur](https://imgur.com) 的帳號以存放要顯示在按鈕上面的縮圖  
 
-> 小技巧
+**小技巧**
 
-  Heroku 免費方案每 30 分鐘沒有活動就會進入休眠，
+　Heroku 免費方案每 30 分鐘沒有活動就會進入休眠，
   
-  而在休眠狀態傳送訊息會有大概 20 秒的延遲，
+　而在休眠狀態傳送訊息會有大概 20 秒的延遲，
+ 
+　且免費方案一個月只有 550 小時的活動時間，
   
-  且免費方案一個月只有 550 小時的活動時間，
+　可以在驗證信用卡使每月可活動時間增加到 1000 小時過後，
   
-  可以在驗證信用卡使每月可活動時間增加到 1000 小時過後，
+　再透過`threading` 建立子執行緒並每 25 分鐘使用 `requests.get()` 連線到在 Heroku 上的域名避免進入休眠。
   
-  再透過`threading` 建立子執行緒並每 25 分鐘使用 `requests.get()` 連線到在 Heroku 上的域名避免進入休眠。
-  
-  詳細請見 [main.py](https://github.com/dongyu0315/Trace.moe_and_SauceNAO_for_LINE/blob/main/main.py#L25)
+　詳細請見 [main.py](https://github.com/dongyu0315/Trace.moe_and_SauceNAO_for_LINE/blob/main/main.py#L25)
     
 ## 這是什麼？它可以幹嘛？
 
