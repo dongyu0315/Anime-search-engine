@@ -51,7 +51,7 @@ LINE Bot 帳號連結：[Source](https://page.line.me/475fahrf)
 
 <img src="https://i.imgur.com/NNiHlkI.png" width="240" height="243"/><br/><br/> 
 
-- **透過圖片搜尋動畫 (支援 GIF 檔)**
+- **透過圖片搜尋動畫 （支援 GIF 檔）**
 
 <img src="https://i.imgur.com/hcE3MCU.gif" width="240" height="269"/><br/><br/> 
 
