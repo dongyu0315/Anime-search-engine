@@ -28,7 +28,7 @@ LINE Bot 帳號連結：[Source](https://page.line.me/475fahrf)
   
   再透過`threading` 建立子執行緒並每 25 分鐘使用 `requests.get()` 連線到在 Heroku 上的域名避免進入休眠。
   
-  詳細請見 [main.py]
+  詳細請見 [main.py](https://github.com/dongyu0315/Trace.moe_and_SauceNAO_for_LINE/blob/main/main.py#L25)
     
 ## 這是什麼？ 它可以幹嘛？
 
@@ -70,5 +70,3 @@ LINE Bot 帳號連結：[Source](https://page.line.me/475fahrf)
 
 - [LINE Bot Heroku Wakeup](https://github.com/maso0310/linebot_heroku_wakeup)
  
-  
-  
