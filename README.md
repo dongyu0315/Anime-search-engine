@@ -10,7 +10,16 @@ LINE Bot 帳號連結：[Source](https://page.line.me/475fahrf)
 
 <img src="https://i.imgur.com/WPrO6as.jpg" width="240" height="443"/><br/>
 
-## 如果你也想要搭建一個與本文相同的 LINE BOT，你需要:
+## 目錄
+
+[如果你也想要搭建一個與本文相同的 LINE Bot](#如果你也想要搭建一個與本文相同的 LINE Bot，你需要:)
+
+[這是什麼？ 它可以幹嘛？](#這是什麼？ 它可以幹嘛？)
+
+[參考資料](#參考資料)
+
+
+## 如果你也想要搭建一個與本文相同的 LINE Bot，你需要:
 
 - 用你 LINE 的帳號註冊 [LINE Developers](https://developers.line.biz/console)
 
