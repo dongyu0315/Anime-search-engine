@@ -1,4 +1,4 @@
-# Trace.moe and SauceNAO for LINE
+# Anime search engine for LINE
 
 本機器人使用 [Trace.moe](https://trace.moe) 與 [SauceNAO](https://saucenao.com) 提供的 API 作程式的編寫，並在 HeorKu 上運行。
 
