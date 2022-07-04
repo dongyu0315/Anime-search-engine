@@ -1,4 +1,4 @@
-# Anime search engine for LINE
+# Anime search engine
 
 本機器人使用 [Trace.moe](https://trace.moe) 與 [SauceNAO](https://saucenao.com) 提供的 API 作程式的編寫，並在 HeorKu 上運行。
 
@@ -8,7 +8,7 @@ GitHub 上已經有其他關於[如何搭建 LINE Bot 機器人](https://github.
 
 LINE Bot 帳號連結：[Source](https://page.line.me/475fahrf)
 
-<img src="https://i.imgur.com/WPrO6as.jpg" width="240" height="443"/><br/>
+<img src="https://i.imgur.com/GGpmKI9.jpg" width="240" height="443"/><br/>
 
 ## 目錄
 
@@ -47,18 +47,10 @@ LINE Bot 帳號連結：[Source](https://page.line.me/475fahrf)
 
 ### [Source](https://page.line.me/475fahrf) 提供了以下幾種方法為你的圖片搜尋來源：
 
-- **透過網址搜尋動畫**
-
-<img src="https://i.imgur.com/NNiHlkI.png" width="240" height="243"/><br/><br/> 
-
 - **透過圖片搜尋動畫 （支援 GIF 檔）**
 
 <img src="https://i.imgur.com/hcE3MCU.gif" width="240" height="269"/><br/><br/> 
 
-
-- **將截圖產生的螢幕黑邊切割後再作搜尋動畫**
-
-<img src="https://i.imgur.com/kbNc8SZ.png" width="240" height="255"/><br/><br/> 
 
 - **透過圖片搜尋漫畫名稱與集數** 
 
@@ -70,12 +62,10 @@ LINE Bot 帳號連結：[Source](https://page.line.me/475fahrf)
 
 - **全域搜尋**
 
-  不去對要搜尋的類別多作限制，遍歷各大網站的資料取得搜尋結果
+  不去對要搜尋的類別多作限制，從各大網站的資料中取得搜尋結果
   
 
 ## 參考資料
-
-- 感謝 [Soruly](https://github.com/soruly) 提供的 [Anilist-Chinese](https://github.com/soruly/anilist-chinese) 幫助我將取得的動畫標題中文化
 
 - [Trace.moe API](https://soruly.github.io/trace.moe-api/#/docs)
 
